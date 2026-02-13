@@ -11,5 +11,6 @@ noBtn.addEventListener("mouseover", () => {
 });
 
 yesBtn.addEventListener("click", () => {
-  message.innerHTML = "Yayyyy!! 💕 I knew it 😍";
+  message.innerHTML = "Yayyyy!! 💕 Goooood Boyyyy! Happy Valentine's Day Nanna😍";
 });
+
